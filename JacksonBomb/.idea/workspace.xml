@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215accc7-6504-4ef6-b235-30bf6e9265d8" name="Default Changelist" comment="" />
+    <list default="true" id="215accc7-6504-4ef6-b235-30bf6e9265d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/nexus-iq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nexus-iq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/vuln-jackson-idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Encoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/nexus-iq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/nexus-iq.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vuln-jackson-idea/src/main/java/demo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuln-jackson-idea/vuln-jackson.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1c4rHuWlkJd8Z15cV4kmXlRo9HY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +57,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,7 +72,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="com.sonatype.iq.idea.config.ProjectConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -77,6 +106,57 @@
       <updated>1589798621281</updated>
       <workItem from="1589798627740" duration="778000" />
       <workItem from="1589876604943" duration="5726000" />
+      <workItem from="1590134044823" duration="1079000" />
+      <workItem from="1590489355382" duration="341000" />
+      <workItem from="1590548080738" duration="457000" />
+      <workItem from="1590568702513" duration="4403000" />
+      <workItem from="1590746156567" duration="264000" />
+      <workItem from="1590925823799" duration="409000" />
+      <workItem from="1590952241591" duration="186000" />
+      <workItem from="1590961860844" duration="261000" />
+      <workItem from="1590966844655" duration="1085000" />
+      <workItem from="1590991594874" duration="81000" />
+      <workItem from="1591004108684" duration="221000" />
+      <workItem from="1591058944636" duration="153000" />
+      <workItem from="1591254774526" duration="3127000" />
+      <workItem from="1594095132270" duration="487000" />
+      <workItem from="1594548735102" duration="167000" />
+      <workItem from="1595470623778" duration="242000" />
+      <workItem from="1595481923231" duration="328000" />
+      <workItem from="1595561448083" duration="392000" />
+      <workItem from="1595807889962" duration="322000" />
+      <workItem from="1596004790724" duration="597000" />
+      <workItem from="1596672705842" duration="561000" />
+      <workItem from="1596760808201" duration="290000" />
+      <workItem from="1597041675983" duration="540000" />
+      <workItem from="1597186362976" duration="235000" />
+      <workItem from="1597376074140" duration="519000" />
+      <workItem from="1598312333410" duration="298000" />
+      <workItem from="1598398128680" duration="337000" />
+      <workItem from="1599016748560" duration="564000" />
+      <workItem from="1599180669188" duration="434000" />
+      <workItem from="1599622617485" duration="332000" />
+      <workItem from="1600126147539" duration="528000" />
+      <workItem from="1601354616767" duration="864000" />
+      <workItem from="1601438579714" duration="1064000" />
+      <workItem from="1602050861801" duration="254000" />
+      <workItem from="1602124504480" duration="514000" />
+      <workItem from="1603329487666" duration="642000" />
+      <workItem from="1603773194147" duration="1218000" />
+      <workItem from="1604450103372" duration="630000" />
+      <workItem from="1604468246323" duration="1376000" />
+      <workItem from="1606161607485" duration="859000" />
+      <workItem from="1606251449198" duration="26000" />
+      <workItem from="1606276938869" duration="789000" />
+      <workItem from="1606881281696" duration="1617000" />
+      <workItem from="1607994564978" duration="897000" />
+      <workItem from="1610317209158" duration="532000" />
+      <workItem from="1610327667387" duration="1717000" />
+      <workItem from="1610813888846" duration="1101000" />
+      <workItem from="1611182617638" duration="592000" />
+      <workItem from="1611786788459" duration="699000" />
+      <workItem from="1612226605281" duration="621000" />
+      <workItem from="1612237364445" duration="1033000" />
     </task>
     <servers />
   </component>
@@ -84,45 +164,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2254" y="236" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589947930528">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1604625860530">
+      <screen x="0" y="23" width="1680" height="979" />
     </state>
-    <state x="2254" y="236" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.0.1920.1080/0.23.1680.1027/3600.23.2560.1417@1680.0.1920.1080" timestamp="1589947930528" />
-    <state x="606" y="396" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589798793268">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state x="606" y="396" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.983@0.23.1680.983" timestamp="1589798793268" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1589950077296">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1638" height="259" key="GridCell.Tab.0.bottom/0.23.1680.983@0.23.1680.983" timestamp="1589799111565" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050/3600.0.2560.1440@1680.0.1920.1080" timestamp="1589950077296" />
-    <state width="1638" height="259" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.983/3600.23.2560.1417@0.23.1680.983" timestamp="1589845055646" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1589950077294">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1638" height="259" key="GridCell.Tab.0.center/0.23.1680.983@0.23.1680.983" timestamp="1589799111564" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050/3600.0.2560.1440@1680.0.1920.1080" timestamp="1589950077294" />
-    <state width="1638" height="259" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.983/3600.23.2560.1417@0.23.1680.983" timestamp="1589845055642" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1589950077293">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1638" height="259" key="GridCell.Tab.0.left/0.23.1680.983@0.23.1680.983" timestamp="1589799111563" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050/3600.0.2560.1440@1680.0.1920.1080" timestamp="1589950077293" />
-    <state width="1638" height="259" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.983/3600.23.2560.1417@0.23.1680.983" timestamp="1589845055640" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1589950077295">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1638" height="259" key="GridCell.Tab.0.right/0.23.1680.983@0.23.1680.983" timestamp="1589799111564" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050/3600.0.2560.1440@1680.0.1920.1080" timestamp="1589950077295" />
-    <state width="1638" height="259" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.983/3600.23.2560.1417@0.23.1680.983" timestamp="1589845055644" />
-    <state x="2141" y="179" key="SettingsEditor" timestamp="1589948097226">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2141" y="179" key="SettingsEditor/1680.0.1920.1080/0.23.1680.1027/3600.23.2560.1417@1680.0.1920.1080" timestamp="1589948097226" />
-    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1589948769459">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050/3600.0.2560.1440@1680.0.1920.1080" timestamp="1589948769459" />
+    <state x="341" y="149" key="SettingsEditor/0.23.1680.979/1680.23.2560.1417@0.23.1680.979" timestamp="1604625860530" />
   </component>
 </project>

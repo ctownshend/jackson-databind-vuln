@@ -9,5 +9,8 @@
         <module name="vuln-jackson" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vuln-jackson-idea" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

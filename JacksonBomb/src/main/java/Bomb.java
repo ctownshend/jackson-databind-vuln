@@ -32,16 +32,16 @@ public class Bomb extends org.apache.xalan.xsltc.runtime.AbstractTranslet {
         // empty
     }
 
-    public void setWallpaper(File file)
-            throws Exception {
-        String as[] = {
-                "osascript",
-                "-e", "tell application \"Finder\"",
-                "-e", "set desktop picture to POSIX file \"" + file.getAbsolutePath() + "\"",
-                "-e", "end tell"
-        };
-        Runtime runtime = Runtime.getRuntime();
-        Process process;
-        process = runtime.exec(as);
-    }
+//    public void setWallpaper(File file)
+//            throws Exception {
+//        String as[] = {
+//                "osascript",
+//                "-e", "tell application \"Finder\"",
+//                "-e", "set desktop picture to POSIX file \"" + file.getAbsolutePath() + "\"",
+//                "-e", "end tell"
+//        };
+//        Runtime runtime = Runtime.getRuntime();
+//        Process process;
+//        process = runtime.exec(as);
+//    }
 }

@@ -1,3 +1,5 @@
+package demo;
+
 public class Product {
 
     private String name;
