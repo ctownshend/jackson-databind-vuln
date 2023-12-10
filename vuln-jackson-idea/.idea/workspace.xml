@@ -8,21 +8,15 @@
       <artifact name="vuln-jackson:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c998caad-ce67-4226-ae55-2bb295fb2cba" name="Default Changelist" comment="single jar attempt2">
-      <change afterPath="$PROJECT_DIR$/../.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JacksonBomb/JacksonBomb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vuln-jackson-idea.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JacksonBomb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JacksonBomb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nexus-iq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nexus-iq.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/MyServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,6 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -63,7 +56,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -73,6 +65,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -85,7 +78,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="com.sonatype.iq.idea.config.ProjectConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -149,6 +142,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -226,6 +220,21 @@
       <workItem from="1624425827263" duration="810000" />
       <workItem from="1624498024507" duration="395000" />
       <workItem from="1624499257582" duration="32441000" />
+      <workItem from="1624877044057" duration="2329000" />
+      <workItem from="1625022249534" duration="654000" />
+      <workItem from="1625102554645" duration="596000" />
+      <workItem from="1626069858725" duration="547000" />
+      <workItem from="1626137973742" duration="2328000" />
+      <workItem from="1627514751755" duration="494000" />
+      <workItem from="1627528973454" duration="405000" />
+      <workItem from="1627529594187" duration="513000" />
+      <workItem from="1627622768964" duration="1419000" />
+      <workItem from="1627630658849" duration="542000" />
+      <workItem from="1627877438879" duration="13000" />
+      <workItem from="1627888540523" duration="540000" />
+      <workItem from="1628579167414" duration="148000" />
+      <workItem from="1628647940776" duration="1512000" />
+      <workItem from="1629097668691" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="single jar attempt">
       <created>1590138860221</created>
@@ -245,72 +254,12 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="single jar attempt" />
     <MESSAGE value="single jar attempt2" />
     <option name="LAST_COMMIT_MESSAGE" value="single jar attempt2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="304" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624859578123">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="304" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859578123" />
-    <state x="393" y="85" key="#vuln-jackson_[clean,install,package]" timestamp="1624859519858">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="393" y="85" key="#vuln-jackson_[clean,install,package]/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859519858" />
-    <state width="3798" height="1283" key="GridCell.Tab.0.bottom" timestamp="1624866432122">
-      <screen x="1792" y="0" width="3840" height="2160" />
-    </state>
-    <state width="3798" height="1283" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.3840.2160@1792.0.3840.2160" timestamp="1624866432122" />
-    <state width="1638" height="308" key="GridCell.Tab.0.bottom/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860857233" />
-    <state width="3798" height="1283" key="GridCell.Tab.0.center" timestamp="1624866432119">
-      <screen x="1792" y="0" width="3840" height="2160" />
-    </state>
-    <state width="3798" height="1283" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.3840.2160@1792.0.3840.2160" timestamp="1624866432119" />
-    <state width="1638" height="308" key="GridCell.Tab.0.center/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860857232" />
-    <state width="3798" height="1283" key="GridCell.Tab.0.left" timestamp="1624866432118">
-      <screen x="1792" y="0" width="3840" height="2160" />
-    </state>
-    <state width="3798" height="1283" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.3840.2160@1792.0.3840.2160" timestamp="1624866432118" />
-    <state width="1638" height="308" key="GridCell.Tab.0.left/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860857231" />
-    <state width="3798" height="1283" key="GridCell.Tab.0.right" timestamp="1624866432120">
-      <screen x="1792" y="0" width="3840" height="2160" />
-    </state>
-    <state width="3798" height="1283" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.3840.2160@1792.0.3840.2160" timestamp="1624866432120" />
-    <state width="1638" height="308" key="GridCell.Tab.0.right/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860857232" />
-    <state x="123" y="76" key="MergeDialog" timestamp="1624859449722">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="123" y="76" key="MergeDialog/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859449722" />
-    <state x="552" y="228" key="MultipleFileMergeDialog" timestamp="1624859452044">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="552" y="228" key="MultipleFileMergeDialog/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859452044" />
-    <state x="349" y="144" key="SettingsEditor" timestamp="1624859553395">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="349" y="144" key="SettingsEditor/0.25.1792.1044/1792.25.3840.2135@0.25.1792.1044" timestamp="1624499244061" />
-    <state x="349" y="144" key="SettingsEditor/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859553395" />
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2" timestamp="1624859076880">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859076880" />
-    <state x="100" y="125" width="1480" height="767" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624860247314">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="100" y="125" width="1480" height="767" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860247314" />
-    <state x="458" y="225" key="git4idea.branch.GitSmartOperationDialog" timestamp="1624859438477">
-      <screen x="0" y="25" width="1792" height="1046" />
-    </state>
-    <state x="458" y="225" key="git4idea.branch.GitSmartOperationDialog/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624859438477" />
-    <state x="2874" y="430" width="1436" height="1394" key="run.anything.popup" timestamp="1624866400481">
-      <screen x="1792" y="0" width="3840" height="2160" />
-    </state>
-    <state x="2874" y="430" width="1436" height="1394" key="run.anything.popup/0.0.1792.1120/1792.0.3840.2160@1792.0.3840.2160" timestamp="1624866400481" />
-    <state x="505" y="233" width="670" height="675" key="run.anything.popup/0.25.1792.1046/1792.25.3840.2135@0.25.1792.1046" timestamp="1624860735125" />
   </component>
 </project>
