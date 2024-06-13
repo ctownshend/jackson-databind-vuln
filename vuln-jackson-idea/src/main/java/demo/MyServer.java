@@ -6,7 +6,10 @@ import spark.Spark;
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+import javax.net.ssl.SSLContext;
+
 public class MyServer {
+
 
     private static final List<Product> database = new CopyOnWriteArrayList<>();
 
@@ -14,6 +17,10 @@ public class MyServer {
     private static final ObjectMapper serializer = new ObjectMapper();
 
     public static void main(String[] args) {
+
+
+        //simple vuln
+        SSLContext ctx = SSLContext.getInstance("TLS");
 
         //Adding some basic data
         database.add(new Product("car", randomData()));
